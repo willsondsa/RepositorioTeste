@@ -1,0 +1,12 @@
+﻿Detalhe das Ligações
+09/05/2017 11:00:34
+Período do Relatório: 09/05/2017 00:00 à 09/05/2017 23:59
+;;Data/Hora;Serviço;Ramal;Agente;Hr Atend;Duração;Tmp Atend;Origem;Destino;Finalização;Tronco;Situação;Solicita Desligamento;Duração Sistema;Confirm. Desligamento;Duração Operadoras;Duração Desligamento
+;Entrada;09/05/2017 09:01:43;servico_01/pe_01;7171;capoto;09:13:24;00:13:20;00:01:39;7017;8899;Agente;0.0;Atendida;09:15:03;00:01:39;09:15:03;00:01:39;00:00:00
+;Entrada;09/05/2017 09:16:20;servico_01/pe_01;;;;00:00:05;00:00:00;7017;8899;Sistema;0.0;Transbordo;;;;;
+;Transferência;09/05/2017 09:16:20;servico_01/pe_01;;;;00:00:05;00:00:00;Transbordo;;Sistema;0.0;Serviço indisponível;09:16:25;00:00:00;09:16:25;00:00:00;00:00:00
+;Entrada;09/05/2017 10:54:07;servico_01/pe_01;;;;00:00:05;00:00:00;7017;8899;Sistema;0.0;Transbordo;;;;;
+;Transferência;09/05/2017 10:54:07;servico_01/pe_01;;;;00:00:05;00:00:00;Transbordo;;Sistema;0.0;Serviço indisponível;10:54:12;00:00:00;10:54:12;00:00:00;00:00:00
+;Entrada;09/05/2017 10:54:41;servico_01/pe_01;;;;00:00:05;00:00:00;7017;8899;Sistema;0.0;Transbordo;;;;;
+;Transferência;09/05/2017 10:54:41;servico_01/pe_01;;;;00:00:05;00:00:00;Transbordo;;Sistema;0.0;Serviço indisponível;10:54:46;00:00:00;10:54:46;00:00:00;00:00:00
+;Entrada;09/05/2017 10:55:16;servico_01/pe_01;6969;nosliw;10:55:16;00:00:12;00:00:12;7017;8899;Externo;0.0;Atendida;10:55:28;00:00:12;10:55:28;00:00:12;00:00:00
